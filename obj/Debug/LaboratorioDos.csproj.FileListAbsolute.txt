@@ -1,0 +1,10 @@
+C:\Users\cr853\source\repos\LaboratorioDos\bin\Debug\LaboratorioDos.exe.config
+C:\Users\cr853\source\repos\LaboratorioDos\bin\Debug\LaboratorioDos.exe
+C:\Users\cr853\source\repos\LaboratorioDos\bin\Debug\LaboratorioDos.pdb
+C:\Users\cr853\source\repos\LaboratorioDos\obj\Debug\LaboratorioDos.csproj.AssemblyReference.cache
+C:\Users\cr853\source\repos\LaboratorioDos\obj\Debug\LaboratorioDos.Properties.Resources.resources
+C:\Users\cr853\source\repos\LaboratorioDos\obj\Debug\LaboratorioDos.csproj.GenerateResource.cache
+C:\Users\cr853\source\repos\LaboratorioDos\obj\Debug\LaboratorioDos.csproj.CoreCompileInputs.cache
+C:\Users\cr853\source\repos\LaboratorioDos\obj\Debug\LaboratorioDos.exe
+C:\Users\cr853\source\repos\LaboratorioDos\obj\Debug\LaboratorioDos.pdb
+C:\Users\cr853\source\repos\LaboratorioDos\obj\Debug\LaboratorioDos.Forms.MainAdminForm.resources
